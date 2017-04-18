@@ -1,0 +1,88 @@
+ORDEM;CNES;NOME DO ESTABELECIMENTO;DIRETOR;ADMINISTRADOR;ENDEREÇO;CEP;BAIRRO;DISTRITO SANITÁRIO;TELEFONE;FAX
+1;2408392;USF África;Iris Alves da Silva;Edna Maria Menezes;Av. Dr. João Medeiros Filho, 02;59122080;Redinha;DISTRITO SANITÁRIO NORTE I;3232-8190;3232-8190
+2;;USF Cidade Praia;;;Rua São Caetano, 520;;Lagoa Azul;;;
+3;2408414;USF Gramoré;Maria de Fátima Barbosa da Silva;Heriberto Torres;Av. Guaratinguetá, 03 - CJ. Gramoré;59135500;Lagoa Azul;DISTRITO SANITÁRIO NORTE I;3232-8250;3232-8250
+4;2656914;USF José Sarney;Maria das Graças do Nascimento;Maria Raquel Costa de Menezes;Rua dos Lírios, 231 - Conj. Santarém;59122300;Redinha;DISTRITO SANITÁRIO NORTE I;3232-9236;3232-9236
+5;2656868;USF Nordelândia;Yuris de Brinto Chavier;;Av. Maria de Araújo Cananéia, 557-721;59139420;Lagoa Azul;DISTRITO SANITÁRIO NORTE I;3232-9234;3232-9234
+6;2409089;USF Nova Natal;Radimilla Paula;;Rua do Pastoril, 1035 - CJ. N. Natal;59138680;Lagoa Azul;DISTRITO SANITÁRIO NORTE I;3232-8250;3232-8250
+7;2408554;UBS Pajuçara;Francisco de Geomar Arújo;Joseneide ;RUA MARACAI, 01;59131190;Pajuçara;DISTRITO SANITÁRIO NORTE I;3232-8240;3232-8240
+8;3189090;USF Parque das Dunas;Walter da Silva Agra;Maria José dos Santos;AV. MAR MEDITERRÂNEO, 101 - PQ. DAS DUNAS;59133010;Pajuçara;DISTRITO SANITÁRIO NORTE I;3232-8184;3232-8184
+9;2798743;USF Pompéia;Elvira Maranhão de Freitas;Maria de Fátima Alves de Olivira;RUA OCEANO ATLANTICO, 172;59123400;Pajuçara;DISTRITO SANITÁRIO NORTE I;3232-8184;3232-8184
+10;2408228;USF Redinha;Maria Clotilde de Góes;Ivete Januário Cunha;;59122080;Redinha;DISTRITO SANITÁRIO NORTE I;3232-8185;3232-8185
+11;;USF Vista Verde;;;Rua Linda Batista, 18 - Cj. Pq. das Dunas;;Pajuçara;;;
+12;6531288;UPA Pajuçara;Kleiber Rodrigo de Medonça;Lucian de Morias;Av. Moema Tinoco, s/n;59133090;Pajuçara;DISTRITO SANITÁRIO NORTE I ;3614-5180;3614-5180
+13;2408333;USF Bela Vista;Maria Edinalva de Melo Silva;Lusinete de Andrade Costa;Rua Novo Recreio, 1254;59104237;POTENGI ;DISTRITO SANITÁRIO NORTE II;3232-8255;3232-8255
+14;3189104;USF Igapó;Auxiliadora Maria Freire Galo;Rosa Maria da Silva;Rua São Tiago, 01;59104040;Igapó;DISTRITO SANITÁRIO NORTE II;3232-8255;3232-8255
+15;2409097;USF Panatis;;Jurema Leiros;Rua das Pimenteiras, 996;59108320;Potengi;DISTRITO SANITÁRIO NORTE II;3232-8220;3232-8220
+16;3190242;USF Parque dos Coqueiros;Valdécio Bezerra Costa;Maria Cilene Silva Oliveira Costa;Rua das Pedrinhas, 100;59114410;Pq. dos Coqueiros;DISTRITO SANITÁRIO NORTE II;3232-8183;3232-8183
+17;3184595;USF Planíciedas Mangueiras;Lucilda Tavares de S. Santiago;;Rua Nova Granada, 01;59115490; N. Srª daApresentação;DISTRITO SANITÁRIO NORTE II;3232-4848;3232-4848
+18;2409054;USF Potengi;Patrícia Ferreira de Amorim;Maria Joseane Ferreira Silva;Av. Itapetinga, 02 – Cj Potengi;59124400;Potengi;DISTRITO SANITÁRIO NORTE II;3232-8205;3232-8205
+19;2656876;USF Santa Catarina;Geize Morais Furtado;Etiane Carlos de Souza;Rua Aracati, 2711- Cj. Panatis III;59112120;Potengi;DISTRITO SANITÁRIO NORTE II;3232-9233;3232-9233
+20;2409216;USF Santarém;;Núbia Galvão Fernandes;Av. das Fronteiras, 12 - Cj. Santarém;;Potengi;DISTRITO SANITÁRIO NORTE II;3232-8215;3232-8215
+21;2656507;USF Soledade I;Terezinha Fraga Monteiro;Sueli Leal da Silva;RUA SANTANÓPOLIS, 2552;59120100;Potengi;DISTRITO SANITÁRIO NORTE II;3232-9233;3232-9233
+22;2408422;USF Soledade II;Maria Eliene Cavancanti Marques;;RUA SERRA NEGRA, 2000 - CJ. SOLEDADE II;59129660;Potengi;DISTRITO SANITÁRIO NORTE II;3232-8210;3232-8210
+23;2408384;USF Vale Dourado;Wellis Matias de Freitas;Hellen Hans Amorim;RUA IRMÃ VITORIA, 02;59114066; N. Srª da Apresentação;DISTRITO SANITÁRIO NORTE II;3232-8260;3232-8210
+24;2409070;Policlínica Norte;;;AV. DR JOAO MEDEIROS, CJ SANTA CATARINA;59108200;Potengi;;3232-8225;3232-8225
+25;;UPA Potengi;;;;;Potengi;;;
+26;2679523;CAPS AD Norte II;Paulo Roberto Costa Pessoa;Kecia Milena Dias Miranda;AV. PAULISTANA, 2109 - PANATIS;59108120;POTENGI;DISTRITO SANITÁRIO NORTE II ;3232-8232;3232-8232
+27;6108547;Maternidade Leide Morais;Lidinalva Barbosa De Barros;Debora Maria de Oliveira Viana;AV. DAS FRONTEIRAS, 1524;59112495; N. Srª daApresentação;DISTRITO SANITÁRIO NORTE II ;3232-3876;3232-3876
+28;;Unidade de Acolhimento Norte;;;;;Potengi;;;
+29;2409046;USF Bairro Nordeste;Luiz Andrade da Costa;;R. Alto Bela Vista, 02;59042250;Bairro Nordeste;DISTRITO SANITÁRIO OESTE;3232-8450;3232-8450
+30;2408457;USF Bom Pastor;João Maria Eufrásio;Aldenir da Silva Fernandes;R. Augusto Calheiros;59052010;Bom Pastor;DISTRITO SANITÁRIO OESTE;3232-8455;3232-8455
+31;2408465;USF Cidade Nova;Adriana Aparacida do N. Ferreira;;R. Laranjal, 47;59072570;Cidade Nova;DISTRITO SANITÁRIO OESTE;3232-8330;3232-8330
+32;;USF Felipe Camarão I ;;;Av. Tamarineira, 25;;Felipe Camarão;;;
+33;2653990;USF Felipe Camarão II;Maria de Fátima Souza;;Rua Santa Catarina, 925;59072150;Felipe Camarão;DISTRITO SANITÁRIO OESTE;3232-8315;3232-8315
+34;3194752;USF Felipe Camarão III;;Eremita Evelino Félix;Rua Itamar Maciel, 360;59074150;Felipe Camarão;DISTRITO SANITÁRIO OESTE;3232-4997;3232-4997
+35;2408430;USF Guarapes;Luis Carlos Xaviaer Bezerra;Claudete Ferreira da Silva;R. Lagoa seca,10 – Guararapes;59074750;Felipe Camarão;DISTRITO SANITÁRIO OESTE;3232-8405;3232-8405
+36;2654008;USF KM 06;;Hellem Hans Amorim;AV. Capito Mor Gouveia, 100;59070405;Felipe Camarão;DISTRITO SANITÁRIO OESTE;3232-8450;3232-8450
+37;2408147;USF Monte Líbano;Maria do Socorro T. da Silva;;R. Matusalém, 121;59060080;Bom Pastor;DISTRITO SANITÁRIO OESTE;3232-8440;3232-8440
+38;2408155;USF Nazaré;;Maricelio Leandro da Silva;R. Rubens Mariz, 10;59060080;Nazaré;DISTRITO SANITÁRIO OESTE;3232-8350;3232-8350
+39;2679485;USF Nova Cidade;Francisca Francinete M. Pnheiro;;RUA HORÁCIO DANTAS, S/N;59064040;Nova Cidade;DISTRITO SANITÁRIO OESTE;;
+40;2408163;USF Novo Horizonte;Maria Penha de Medeiros;;RUA DOS PANATIS, 128. NOVO HORIZONTE;59050200;ALECRIM ;DISTRITO SANITÁRIO OESTE;3232-8445;3232-8445
+41;2409100;USF Quintas II;;Célia Regina da Silva Rodrigues;TRV. Luiz Sampaio, 712;59042035;Quintas;DISTRITO SANITÁRIO OESTE;3232-8435;3232-8435
+42;;Policlínica Oeste;;;Av. Pernambuco, 25;;Cid. da Esperança;;;
+43;;Maternidade Felipe Camarão;;;Av. Tamarineira, s/n;;Felipe Camarão;;;
+44;7408765;UPA Esperança;Swami Bezerra Fonseca;Maristela Maria Gomes Barbosa Cruz;Av. Paraíba, s/n;;Cid. da Esperança;DISTRITO SANITÁRIO OESTE;3232-2378;3232-2378
+45;2409127;CAPS Oeste;Rossana Guessa Alves da Mota Campos;Rafaela de Paula Gomes;Rua Murilo de Melo, 1924;59054510;DIX-SEPT ROSADO;DISTRITO SANITÁRIO OESTE;3232-8460;3232-8460
+46;5358329;CAPSi;Jacira Pereira Soares;Debora Azevedo do Nascimento;AV. CAPITÃO MOR GOUVEIA, 09;59060400;BOM PASTOR;DISTRITO SANITÁRIO OESTE;3232-8460;3232-8460
+47;;Unidade de Acolhimento Infanto Juvenil;;;Av. Mor Gouveia, s/n;;Cid. da Esperança;;;
+48;;Residência Terapêutica II;;;Av. Miguel Castro, 714;;Lagoa Nova;;;
+49;2653931;UBS Quintas;Aloma Tereza Fonseca;;Rua dos Paiatis, s/n;59037150;Quintas;DISTRITO SANITÁRIO OESTE;32328430;32328430
+50;2409119;POLICLINICA OESTE;José Martins da Costa Filho;Edna Maria Silva;Av. Pernambuco, s/n;59070300;Cid. da Esperança;DISTRITO SANITÁRIO OESTE;3232-1180;3232-1180
+51;2408929;USF Aparecida;Wanderson Soares da Silva ;;RUA GUANABARA, 195;59014180;Mãe Luiza;DISTRITO SANITÁRIO LESTE;3232-8620;3232-8620
+52;2408775;USF Brasília Teimosa;;Lílian Emanuelle da Silva ;Rua Miramar, 02;59010015;Brasília Teimosa;DISTRITO SANITÁRIO LESTE;3232-8536;3232-8536
+53;2408481;USF Guarita;Márcia Alves Chaves ;Orlando Batista da Silva;Rua Presidente Sarmento, 1955;59037400;Alecrim;DISTRITO SANITÁRIO LESTE;3232-8438;3232-8438
+54;2408767;USF Passo da Pátria;Jusnaldo Ribeiro Confessor;Eduardo Bento Dantas;RUA OCIDENTAL DE BAIXO, 01;59040085;CIDADE ALTA;DISTRITO SANITÁRIO LESTE;3232-8560;3232-8560
+55;2408759;USF Rocas;;Francisca Genilda Cavalcanti;Rua Francisco Bicalho, 74;59010350;Rocas;DISTRITO SANITÁRIO LESTE;3232-8820;3232-8820
+56;;Hospital Municipal de Natal;;;Rua Cel. Joaquim Manoel, 654;;Petrópolis;;;
+57;2408686;CENTRO DE REF DE ATENCAO AO IDOSO;Antonia Lucas dos Santos;Francisca Doriela Félix;Praça Augusto Severo, 281;59012380;Ribeira;DISTRITO SANITÁRIO LESTE;3232-8580;3232-8580
+58;2408716;CAPS AD Leste;Maria de Fátima de Lira;Adilea Aureliano do Nascimento;Rua Pacifico de Medeiros, 1251;;Barro Vermelho;DISTRITO SANITÁRIO LESTE ;3232-8365;3232-8365
+59;;CAPS III Leste;;;Rua Mipibu;;Petrópolis;;;
+60;;CEO Morton Mariz;;;Praça Cap José da Penha, 155;;Ribeira;;;
+61;4013468;Centro de Especialidades Integradas Leste II;Ivonaide Matias Xavier;;Rua Fonseca e Silva, 1229;59012380;RIBEIRA ;DISTRITO SANITÁRIO LESTE;3232-9199;3232-9199
+62;;Residencia Terapeutica I;;;Rua Dr. Inacio de Carvalho, 1119;;Tirol;;;
+63;2408449;USB Lagoa Seca;Nelma Maria Gomes dos Santos ;Armanda Maria Gusmão ;R Padre Antônio, 169;59032230;Lagoa Seca;DISTRITO SANITÁRIO LESTE;3232-8475;3232-8475
+64;;USB Familiar Comunitária;;;Av. Nilo Peçanha, 620;;Petrópolis;;;
+65;2408740;UBS São João;Maria Analúcia C. Monteiro ;Felipe Ronaldo de Oliveira ;Av. Romualdo Galvão, 891;59022100;Tirol;DISTRITO SANITÁRIO LESTE;3232-8570 ;3232-8570 
+66;2408724;UBS Alecrim;;Maria Luciene Ferreira da Silva;Avenida PresidenteBandeira, 935;;Alecrim;DISTRITO SANITÁRIO LESTE;3232-8427 ;3232-8427 
+67;2408627;UBS Mãe Luiza;Mozanita da Rocha Bezerra;Maria Aparecida Câmara Santos;Rua João XXII, 2A;59014000;Mãe Luiza;DISTRITO SANITÁRIO LESTE;;
+68;2409038;USF Planalto;Raila da Costa e Souza;Damares Cavalcante da S. Costa;Av. Comunidade Shallon 10 -  Coophab;;Planalto;DISTRITO SANITÁRIO SUL;3232-8400;3232-8400
+69;2408783;USF Ponta Negra;Elida Maria Fernandes;;Rua José Medeiros, 01;59090660;Ponta Negra;DISTRITO SANITÁRIO SUL;3232-8410;3232-8410
+70;2408821;Policlínica Sul;Antonio Juscicleiton Silva;Kelsilene Karla Alves;RUA. RIO JUCUI, 96;59148680;Neópolis;DISTRITO SANITÁRIO SUL;3232-8370;3232-8370
+71;;Maternidade de Natal ;;;Rua Cel. Joventino Cabral, 1734;;Tirol;;;
+72;2408872;Unidade Mista de Cidade Satélite;Tânia Maria Lopes F. Correia;Arlindo Rodrigues Almeida;Rua das Carnaubas, s/nº;59067630;Pitimbu;DISTRITO SANITÁRIO SUL;3232-8390;3232-8390
+73;;UPA Satélite;;;Av. dos Xavantes, s/n – Cid. Satélite;;Pitimbu;;;
+74;;Residencia TerapêuticaIII;;;R. Comandante Monteiro Chaves, 2053;;Pitimbu;;;
+75;2408791;UBS CIDADE SATELITE;;;Rua Serra do Piracambu, 02;;Pitimbu;;;
+76;;UBS Satélite;Katia Suely dos S. Salviano Camara;Roberto Araujo;Rua das Carnaúbas, 02;59068210;Pitimbu;DISTRITO SANITÁRIO SUL;3232-8395;3232-8395
+77;2408856;UBS Jiqui;Rilva Gurgel Moreira Guerra;;Rua União dos Palmeiras, 11, Jiqui;59086300;Neópolis;DISTRITO SANITÁRIO SUL;3232-8385;3232-8385
+78;2408635;UBS Nova Descoberta;;Suely Aquino Costa;Av. Xavier da Silveira, 05;59056530;Nova Descoberta;DISTRITO SANITÁRIO SUL;3232-8285;3232-8285
+79;2408813;UBS Pirangi;Erimary de Souza Silva;;AV. SÃO MIGUEL DOS CARIBES, 4650;59086500;Pirangi;DISTRITO SANITÁRIO SUL;3232-8205;3232-8205
+80;2408848;UBS Candelária;Sânia Maria Cãmara de Souza;Loisa Christiane R. C. A. O. C. Pereira;Rua Nossa Senhora da Candelária, 3042;59065490;Candelária;DISTRITO SANITÁRIO SUL;3232-8295;3232-8295
+81;2408805;UBS Mirassol;Márcia Maria da Costa Barreto;Janilma Dantas dos Santos;Rua das Violetas, s/nº -Mirassol;59068170;Capim Macio;DISTRITO SANITÁRIO SUL;3232-8290;3232-8290
+82;;Sede Dist. Sant. Norte I;;;Rua Ivaiporão, 133, Conj. Santarém;;Potengi;;;
+83;;Sede Dist. Sant. Norte II;;;Rua Marcilio Dias, 265;;Igapó;;;
+84;;Sede Dist. Sant. Leste;;;Pça. Augusto Severo, 281;;Ribeira;;;
+85;;Sede Dist. Sant. Sul;;;Avenida Amintas Barros, 4549;;Nova Descoberta;;;
+86;;Sede Dist. Sant. Oeste;;;Rua Rubens Mariz, 10 ;;Bom Pastor;;;
+87;2679493;PRONTO ATENDIMENTO INFANTIL SANDRA CELESTE;Ana Maria M. Torquato;;AV. JAGUARARI, 2574;2679493;LAGOA NOVA;DISTRITO SANITÁRIO OESTE;3232-8466;3232-8466
